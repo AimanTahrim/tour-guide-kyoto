@@ -17,8 +17,6 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         mContext = context;
     }
 
-    test
-
 
     @Override
     public Fragment getItem(int position) {
