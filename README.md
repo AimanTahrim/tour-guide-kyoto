@@ -1,10 +1,10 @@
 # Tour Guide app
 
-Hi! This is my project №5 at the Udacity + Google Android Basics Nanodegree Scholarship.
+Hi! This is my mini project using Android Studio.
 
 ## Description
 
-This app help you to sightseeing the Krasnodar city.
+This app help you to sightseeing the beauty of Kyoto, Japan.
 
 ## Screenshot
 
