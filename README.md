@@ -8,11 +8,7 @@ This app help you to sightseeing the beauty of Kyoto, Japan.
 
 ## Screenshot
 
-![Tour Guide](https://image.ibb.co/kkGSdn/tour_guide_screenshot.png)
-
-## One-file installation
-
-Here is the [APK file](https://www.dropbox.com/s/jvfim2v6oyf6hyh/TourGuide.apk?dl=0).
+![Tour Guide](tourguidekyoto.png)
 
 ## License
 ```
