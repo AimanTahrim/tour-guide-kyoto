@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Kyoto.</string>
+    <string name="main_title">Travel Kyoto</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_foods">Foods</string>
+    <string name="category_festivals">Festivals</string>
+    <string name="category_shopping">Shopping</string>
+
+
+    <!-- monuments places names -->
+    <string name="nijo_castle">Nijo Castle</string>
+    <string name="daitoku_ji">Daitoku-Ji</string>
+    <string name="fushimi_inari_taisha">Fushimi Inari Taisha</string>
+    <string name="kinkaku_ji">Kinkaku-Ji</string>
+    <string name="kyoto_imperial_palace">Kyoto Imperial Palace</string>
+
+    <!-- monuments places description -->
+    <string name="nijo_castle_descripton">Nijō Castle is a flatland castle in Kyoto, Japan. The castle consists of two concentric rings (Kuruwa) of fortifications, the Ninomaru Palace, the ruins of the Honmaru Palace, various support buildings and several gardens. </string>
+    <string name="daitoku_ji_description">Daitoku-Ji is a Buddhist temple, one of fourteen autonomous branches of the Rinzai school of Japanese Zen. It is located in Kita-ku, Kyoto, Japan. </string>
+    <string name="fushimi_inari_taisha_description">Fushimi Inari Taisha is the head shrine of the kami Inari, located in Fushimi-ku, Kyoto, Kyoto Prefecture, Japan. The shrine sits at the base of a mountain also named Inari which is 233 metres above sea level.</string>
+    <string name="kinkaku_ji_description">Kinkaku-Ji also known as Temple of the Golden Pavilion is a Zen Buddhist temple in Kyoto, Japan. It is one of the most popular buildings in Japan, attracting many visitors annually.</string>
+    <string name="kyoto_imperial_palace_description">Kyoto Imperial Palace is the former ruling palace of the Emperor of Japan. The Emperors have since resided at the Tokyo Imperial Palace after the Meiji Restoration in 1869, and the preservation of the Kyoto Imperial Palace was ordered in 1877.</string>
+
+
+    <!--  festival names -->
+    <string name="kyoto_cherry_blossom_festival">Kyoto Cherry Blossom Festivals</string>
+    <string name="kyoto_light_festival">Kyoto Light Festival</string>
+    <string name="kyoto_aoi_matsuri">Kyoto Aoi Matsuri</string>
+    <string name="kyoto_gion_matsuri">Kyoto Gion Matsuri</string>
+    <string name="kyoto_jidai_matsuri">Kyoto Jidai Matsuri</string>
+
+    <!--  festival description -->
+    <string name="kyoto_cherry_blossom_festival_description">The cherry blossom festival, or hanami, is celebrated throughout Kyoto each year. There are many wonderful spots to see the sakura (cherry blossoms) and relax in their shade, the only trouble is picking one.</string>
+    <string name="kyoto_light_festival_description">Over several days, the whole district of Higashiyama is illuminated by thousands of lanterns, all lighting the way to the area’s temples and shrines. </string>
+    <string name="kyoto_aoi_matsuri_description">The event dates back all the way to 539, when it was first used to try and appease the gods after floods and disease struck the city. Many of the original features of the festival remain, including the parade of mounted archers.</string>
+    <string name="kyoto_gion_matsuri_description">It all began in the 9th century as a way to appease the gods, hence the portable shrines that are carried along the streets. Over time, the festival became overseen by the city’s wealthy class of merchants, an arrangement still in place today.</string>
+    <string name="kyoto_jidai_matsuri_description">Also known as the Festival of the Ages, this summer festival is designed to remember Kyoto’s important place in the history of Japan.</string>
+
+
+    <!-- foods names -->
+    <string name="kaiseki">Kaiseki</string>
+    <string name="kyoto_style_sushi">Kyoto Style Sushi</string>
+    <string name="nagashi_somen">Nagashi Somen</string>
+    <string name="omurice">Omurice</string>
+    <string name="tofu_yuba_yudofu">Tofu, Yuba and Yudofu</string>
+
+    <!-- foods description -->
+    <string name="kaiseki_description">Kaiseki is a multi-course set meal of small dishes served individually, and enjoyed with tea. Each dish is prepared to balance the taste, look and texture of the food and they are often garnished and plated beautifully.</string>
+    <string name="kyoto_style_sushi_description">Kyoto Style Sushi rolls their sushi a little different from the rest of Japan, they are pressed into a wooden box to mould it, and are sometimes made with cured fish (for lack of fresh ones during those days).</string>
+    <string name="nagashi_somen_description">If you’re in Kyoto during summer, do not miss out on a chance to dine over the river. Known as kawadoko dining. Nagashi Somen are white somen noodles that slide down bamboo pipes with streams of cold flowing water (during summer only)</string>
+    <string name="omurice_description">Omurice is fried rice topped with a fluffy omelette that flows over the rice once sliced, and then topped with either ketchup or a demi-glaced sauce.</string>
+    <string name="tofu_yuba_yudofu_description">Made from soybeans, a good tofu is one that has a clean, creamy soy flavor that is almost tasteless; with a silky firm presence — and Kyoto’s freshly made ones just hits the right tofu spots.</string>
+
+
+    <!-- Shopping places names -->
+    <string name="aeon_kyoto">Aeon Mall Kyoto</string>
+    <string name="daimaru_kyoto">Daimaru Kyoto</string>
+    <string name="kyoto_marui">Kyoto Marui</string>
+    <string name="kyoto_porta">Shopping Mall Kyoto Porta</string>
+    <string name="takashimaya_kyoto">Takashimaya Kyoto</string>
+
+    <!-- Shopping places description -->
+    <string name="aeon_kyoto_description">Aeon Mall is a large shopping center situated 5 minutes walk from the Hachijo Exit on the south side of Kyoto Station. Inside are popular national and international retail stores, a number of cheap eateries, an amusement arcade, and a cinema.</string>
+    <string name="daimaru_kyoto_description">Daimaru Kyoto a department store with a 300-year history in Kyoto, carrying a wide variety of food products, cosmetics and other items from the world’s top brands.</string>
+    <string name="kyoto_marui_description">Kyoto Marui is one of the most important commercial facilities in Kyoto. Kyoto Marui is accessible directly from Hankyu Kawaramachi Station, and many tourists start their Kyoto journey from here; either to Gion or to the Kyoto Imperial Palace</string>
+    <string name="kyoto_porta_description">Directly connected to Kyoto Station, you can obtain everything in Shopping Mall Kyoto Porta. There are mainly three services they offer. There are restaurants, souvenirs and fashion items.</string>
+    <string name="takashimaya_kyoto_description">Direct access from Kawaramachi Station. English and Chinese interpreters await at the duty-free counter on the first floor. Show your passport and receive a coupon for 5% off.</string>
+</resources>
